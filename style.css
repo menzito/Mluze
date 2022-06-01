@@ -107,7 +107,7 @@ nav ul li a{
 
 @media screen and (max-width:  770px){
 	.banner-text h1{
-		font-size:  44px;
+		font-size:  10px;
 	}
 	.banner-btn a{
 		display: block;
@@ -206,9 +206,9 @@ nav ul li a{
 
 		.title-text h1{
 
-		font-size: 35px;
+		font-size: 10px;
 }.features{
-		flex-basis: 50%;
+		flex-basis: 100%;
 }
 .feature-img{
 	flex-basis: 100%;
@@ -307,6 +307,11 @@ hr{
 	.single-service:hover .service-desc{
 	bottom: 25% !important;
 	
+}
+.single-service img{
+	width: 30vh;
+	height: 30vh;
+	border-radius: 7px;
 }
 }
 /*---testimonial----*/
