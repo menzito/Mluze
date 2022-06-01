@@ -10,7 +10,7 @@ html,body {
 }
 
 body	{
-	position: relative;
+	position: fixed;
 }
 
 #banner{
