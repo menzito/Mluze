@@ -450,6 +450,7 @@ position: relative;
 	.footer-left, .footer-right{
 		flex-basis: 100%;
 		font-size: 14px;
+		width: 50%;
 	}
 	.footer-img{
 		top: 25%;
