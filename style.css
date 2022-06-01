@@ -5,9 +5,14 @@
 }
 
 html,body {
-overflow-x: hidden;
-
+	overflow-x: hidden;
+	height: 100%;
 }
+
+body	{
+	position: relative;
+}
+
 #banner{
 background: linear-gradient(rgba(0,0,0,0.5),#000000), url(Images/banner1.jpg);
 background-size: cover;
