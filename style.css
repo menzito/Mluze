@@ -71,7 +71,7 @@ height: 80vh;
 }
 #sideNav{
 	width: 250px;
-	height: 50vh;
+	height: 70vh;
 	position: fixed;
 	right: -250px;
 	top: 0;
@@ -249,8 +249,8 @@ nav ul li a{
 	position: relative;
 }
 .single-service img{
-	width: 350px;
-	height: 350px;
+	width: 200px;
+	height: 200px;
 	border-radius: 7px;
 
 }
